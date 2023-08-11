@@ -3,7 +3,7 @@
 
     <groupId>com.sprylab.xar</groupId>
     <artifactId>parent</artifactId>
-    <version>0.9.12-SNAPSHOT</version>
+    <version>0.9.12-hydraulic</version>
     <packaging>pom</packaging>
 
     <name>xar (Parent)</name>
